@@ -66,7 +66,7 @@ book.html
                     <img src="WhatsApp Image 2026-05-25 at 18.54.53.jpeg" alt="mypic">
                 </div>
                 <div class="page7">
-                    <h2>SHAJID</h2>
+                    <h2>Muhilan</h2>
                     <hr>
                 </div>
                 
@@ -164,8 +164,7 @@ body{
 
 
 ## OUTPUT:
-<img width="1306" height="906" alt="image" src="https://github.com/user-attachments/assets/e2cec8d7-6a9f-44f0-a52e-425cb9e690e8" />
-
+![alt text](Screenshot 2026-05-25 212038.png>)
 
 
 ## RESULT:
