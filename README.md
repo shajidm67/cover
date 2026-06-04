@@ -164,7 +164,8 @@ body{
 
 
 ## OUTPUT:
-![alt text](Screenshot 2026-05-25 212038.png>)
+<img width="1306" height="906" alt="image" src="https://github.com/user-attachments/assets/ea76229e-b94b-4eb0-9fd6-1beb116f6524" />
+
 
 
 ## RESULT:
